@@ -4,5 +4,6 @@ spring:
       database: crud_db
       port: 27017
       host: localhost
+      authentication-database: admin
 server:
   port: 8080
