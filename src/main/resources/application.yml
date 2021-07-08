@@ -5,5 +5,7 @@ spring:
       port: 27017
       host: localhost
       authentication-database: admin
+      password: password
+      username: admin
 server:
   port: 8080
